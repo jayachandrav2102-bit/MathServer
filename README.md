@@ -81,12 +81,13 @@ urlpatterns = [
         path('admin/', admin.site.urls),
         path('', views.calculate_bmi, name='calculate_bmi'),
 ]
+```
 
 ## SERVER SIDE PROCESSING:
-![alt text](image.png)
+![alt text](<Screenshot 2025-10-05 214856.png>)
 
 ## HOMEPAGE:
-![alt text](image-1.png)
+![alt text](<Screenshot 2025-10-05 214828.png>)
 
 ## RESULT:
 The program for performing server side processing is completed successfully.
